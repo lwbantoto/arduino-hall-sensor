@@ -1,7 +1,8 @@
+//By Lance Bantoto
+
 const int hallPin = 12; //hall sensor connected to pin 12
 
 const int LED = 2;
-
 
 int hallValue = 0;
 
